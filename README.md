@@ -1,73 +1,14 @@
-# Welcome to your Lovable project
+# Hierarchy Management Frontend
 
-## Project info
+> A Lovable.dev-based frontend for interacting with the [Hierarchy Management System](https://github.com/Vageesh-Jayaraman/Hierarchy-Management-System) backend, providing an intuitive UI for managing hierarchical components and role-based access.
 
-**URL**: https://lovable.dev/projects/74599baa-687b-4290-93d2-6487240fc514
+---
 
-## How can I edit this code?
+<a href="https://hierarchy-management-system.onrender.com" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Live%20Frontend-Open-blue?style=for-the-badge&logo=react&logoColor=white" alt="Live Frontend"/>
+</a>
 
-There are several ways of editing your application.
+<a href="https://hierarchy-management-system.onrender.com/swagger-ui/index.html" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/View%20API%20Endpoints-Swagger-brightgreen?style=for-the-badge&logo=swagger&logoColor=white" alt="View API Endpoints - Swagger"/>
+</a>
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/74599baa-687b-4290-93d2-6487240fc514) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/74599baa-687b-4290-93d2-6487240fc514) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
