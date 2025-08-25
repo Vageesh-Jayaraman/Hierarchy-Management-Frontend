@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:8080';
+const BASE_URL = 'https://hierarchy-management-system.onrender.com';
 
 export interface Application {
   id: string;
